@@ -15,7 +15,7 @@
             <div class="col-md-8">
                 <div class="card shadow-sm">
                     <div class="card-body p-4">
-                        <h2 class="mb-4 font-weight-bold">Email tới bạn</h2>
+                        <h2 class="mb-4 font-weight-bold">Email tới bạn | email1, email2,..</h2>
                         
                         <form action="mail.php" enctype="multipart/form-data" method="POST">
                             <div class="form-group">
